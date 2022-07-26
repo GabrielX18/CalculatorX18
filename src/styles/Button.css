@@ -1,0 +1,23 @@
+button{
+    outline: none;
+    border: none;
+    /* border: 1px solid #fff; */
+    /* padding: 23px; */
+    font-size: 24px;
+}
+
+.button_number{
+    background-color: #f72585;
+}
+
+.button_number:hover{
+    background-color: #d62828;
+}
+
+.button_operator{
+    background-color: #8ac926;
+}
+
+.button_operator:hover{
+    background-color: #6a4c93;
+}
